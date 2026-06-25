@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Github User" language="en" table="x_713629_github_0_github_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Github User</label>
+            <language>en</language>
+            <name>x_713629_github_0_github_user</name>
+            <plural>Github Users</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-23 08:44:03</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Github User</sys_name>
+            <sys_package display_value="GitHub Demo" source="x_713629_github_0">4756e85fc3e10310cf28554d050131e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GitHub Demo">4756e85fc3e10310cf28554d050131e1</sys_scope>
+            <sys_update_name>sys_documentation_x_713629_github_0_github_user__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-23 08:44:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
